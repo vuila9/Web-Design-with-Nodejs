@@ -8,5 +8,7 @@ Please read the README.txt instructions before running the codes: https://github
 
 I will assume you have Nodejs and MongoDB installed on your machine.
 
+Download the 2406_project.zip file and extract it.
+
 This is the video demonstration of how to set up and run the program
 https://youtu.be/ezaQvoaKabY
