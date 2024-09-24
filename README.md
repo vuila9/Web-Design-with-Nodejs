@@ -1,6 +1,6 @@
 # Web-Design-with-Nodejs
 
-This is a small project in COMP2406-F21
+This is a small project in COMP2406-F21 (Carleton University) about an online restaurant with front-end and back-end development using Node.js server and MongoDB database. Designed with REST APIs and features user-account functinality.
 
 Please do not copy this code as I do not permit it :) These codes are for viewed only
 
